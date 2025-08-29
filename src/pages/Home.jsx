@@ -21,7 +21,7 @@ export const HomePage = () => {
 
   useEffect(() => {
     try {
-      const modules = import.meta.glob("../summaries/*.md", {
+      const modules = import.meta.glob("../Summaries/*.md", {
         as: "raw",
         eager: true,
       });
