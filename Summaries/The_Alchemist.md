@@ -2,26 +2,26 @@
 ---
 title: "The Alchemist"
 author: "Paulo Coelho"
-genre: "Fiction, Spiritual, Adventure, Allegory"
-themes: "Personal Legend, Self-Discovery, Listening to One's Heart, Destiny"
-mood: "Inspiring, Reflective"
-tags: "Personal Legend, Self-Discovery, Spirituality, Adventure, Allegory, Paulo Coelho"
+genre: "Fiction / Spiritual / Adventure"
+themes: "Personal Legend, self-discovery, destiny, listening to the heart, transformation"
+mood: "Inspirational, contemplative"
+tags: "self-discovery, spirituality, adventure, philosophy, classic"
 user_rating: "⭐ 3.7/5"
 ---
 
 ## Short AI Summary
-Paulo Coelho’s *The Alchemist* follows Santiago, a shepherd boy who embarks on a quest for treasure that ultimately leads to profound personal growth. The story emphasizes that true wealth lies not in gold but in listening to one’s heart, trusting the universe, and daring to pursue one’s Personal Legend. Through encounters with wise figures and trials of faith, Santiago learns to recognize the omens guiding his path. The novel blends adventure with spiritual allegory, encouraging readers to pursue their own dreams with courage and clarity.
+In *The Alchemist*, Santiago’s quest for a buried treasure leads him to discover that the real treasure lies within. Through encounters with mystical characters and the guidance of the desert, he learns to listen to his heart, trust the universe, and pursue his Personal Legend. The novel weaves adventure with spiritual insight, showing that true wealth is measured by personal growth and courage. Its timeless message encourages readers to follow their dreams and embrace the unknown.  
 
 ## User’s Original Summary
 The Alchemist
 
-The true treasure isn’t the gold Santiago finds — it’s the transformation of his soul into someone who listens to his heart, trusts the world, and dares to live his Personal Legend. It's a good read, 3.7/5.
+The true treasure isn’t the gold Santiago finds — it’s the transformation of his soul into someone who listens to his heart, trusts the world, and dares to live his Personal Legend. It's a good read, 3.7/5.  
 
 ## Related Books You Might Like
-- *The Pilgrimage* – Paulo Coelho  
-- *Siddhartha* – Hermann Hesse  
-- *The Little Prince* – Antoine de Saint-Exupéry  
+- *Siddhartha* by Hermann Hesse  
+- *The Pilgrimage* by Paulo Coelho  
+- *The Little Prince* by Antoine de Saint-Exupéry  
 
 ## Tagline
-*"What if the greatest treasure is the journey within?"*
+*"Unlock the treasure that lies inside your own heart."*
 ```
